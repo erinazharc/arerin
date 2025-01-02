@@ -19,7 +19,8 @@ onMounted(() => {
 </script>
 
 <template>
-	<div class="text-container">Airdrop ASC</div>
+	<div class="text-container">Contributor AR.IO</div>
+	<div class="text-container">Erin</div>
 	<div class="rain" ref="rainContainer"></div>
 </template>
 
