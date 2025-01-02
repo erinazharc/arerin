@@ -18,11 +18,11 @@ onMounted(() => {
 });
 </script>
 
-<template>
+<template><center>
 	<div class="text-container">Contributor AR.IO</div>
 	<div class="text-container">Erin</div>
 	<div class="rain" ref="rainContainer"></div>
-</template>
+</center></template>
 
 <style>
 body {
