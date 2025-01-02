@@ -35,7 +35,7 @@ body {
 	color: #ff2200;
 	font-family: "Courier New", Courier, monospace;
 	font-size: 3rem;
-	text-shadow: 0 0 10px #0f0, 0 0 20px #0f0, 0 0 30px #0f0;
+	text-shadow: 0 0 10px #851a1f, 0 0 20px #851a1f, 0 0 30px #851a1f;
 	overflow: hidden;
 	position: relative;
 	padding: 0 20px;
