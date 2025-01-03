@@ -67,7 +67,7 @@ body {
 
 .rain span {
 	position: absolute;
-	color: #0f0;
+	color: #ff2200;
 	font-size: 1.5rem;
 	font-family: "Courier New", Courier, monospace;
 	animation: matrixRain linear infinite;
